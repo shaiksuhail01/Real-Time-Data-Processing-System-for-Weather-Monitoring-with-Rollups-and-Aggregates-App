@@ -16,6 +16,7 @@ Here are some screenshots of the Weather App:
 ![Weather App Screenshot 2](https://raw.githubusercontent.com/shaiksuhail01/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates-App/main/public/Screenshot%2024-10-25%20120812.png)
 ![Weather App Screenshot 3](https://raw.githubusercontent.com/shaiksuhail01/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates-App/main/public/Screenshot%2024-10-25%20121040.png)
 
+
 ## Technologies Used
 
 - **React**: Frontend library for building user interfaces.
