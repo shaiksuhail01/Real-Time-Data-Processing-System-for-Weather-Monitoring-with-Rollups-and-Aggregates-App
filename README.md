@@ -12,10 +12,9 @@ A React-based Weather App that fetches weather forecasts for cities worldwide. T
 
 Here are some screenshots of the Weather App:
 
-![Weather App Screenshot 1](https://raw.githubusercontent.com/shaiksuhail01/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates-App/main/public/Screenshot%2024-10-25%20120802.png?raw=true "Weather App Screenshot 1")
-![Weather App Screenshot 2](https://raw.githubusercontent.com/shaiksuhail01/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates-App/main/public/Screenshot%2024-10-25%20120812.png?raw=true "Weather App Screenshot 2")
-![Weather App Screenshot 3](https://raw.githubusercontent.com/shaiksuhail01/Real-Time-Data-Processing-System-for-Weather-Monitoring-with-Rollups-and-Aggregates-App/main/public/Screenshot%2024-10-25%20121040.png?raw=true "Weather App Screenshot 3")
-
+![Weather App Screenshot 1](public/one.png)
+![Weather App Screenshot 2](public/two.png)
+![Weather App Screenshot 3](public/three.png)
 
 ## Technologies Used
 
