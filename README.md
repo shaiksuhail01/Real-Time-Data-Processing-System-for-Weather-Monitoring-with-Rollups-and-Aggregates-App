@@ -12,9 +12,9 @@ A React-based Weather App that fetches weather forecasts for cities worldwide. T
 
 Here are some screenshots of the Weather App:
 
-![Weather App Screenshot 1](Screenshot%2024-10-25%20120802.png)
-![Weather App Screenshot 2](Screenshot%2024-10-25%20120812.png)
-![Weather App Screenshot 3](Screenshot%2024-10-25%20121040.png)
+![Weather App Screenshot 1](public/one.png)
+![Weather App Screenshot 2](public/two.png)
+![Weather App Screenshot 3](public/three.png)
 
 ## Technologies Used
 
